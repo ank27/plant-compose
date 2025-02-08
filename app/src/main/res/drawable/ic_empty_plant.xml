@@ -1,0 +1,30 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="240dp"
+    android:viewportWidth="240"
+    android:viewportHeight="240">
+
+    <!-- Background Circle (dotted) created using small arcs -->
+    <path
+        android:strokeColor="#BDBDBD"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M120,60 A60,60 0 0,1 180,120 M180,120 A60,60 0 0,1 120,180 M120,180 A60,60 0 0,1 60,120 M60,120 A60,60 0 0,1 120,60"/>
+
+    <!-- Pot Base -->
+    <path
+        android:fillColor="#BDBDBD"
+        android:pathData="M70,180 L170,180 L180,200 L60,200 Z"/>
+
+    <!-- Pot Shadow -->
+    <path
+        android:fillColor="#9E9E9E"
+        android:pathData="M60,200 L180,200 L190,210 L50,210 Z"/>
+
+    <!-- Plus Sign -->
+    <path
+        android:fillColor="#BDBDBD"
+        android:pathData="M110,90 L130,90 L130,110 L150,110 L150,130 L130,130 L130,150 L110,150 L110,130 L90,130 L90,110 L110,110 Z"/>
+
+</vector>

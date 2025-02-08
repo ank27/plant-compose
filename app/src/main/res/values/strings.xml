@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">PlantCompose</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="plants_title">My Plants</string>
+    <string name="add_plant_button_text">Add Plant</string>
+    <string name="delete_plant_description">Delete plant</string>
+    <string name="no_plants_heading">No plants yet</string>
+    <string name="no_plants_message">Add your first plant by clicking the + button</string>
+    <string name="error_message">Oops! Something went wrong</string>
+    <string name="loading_message">Loading plants…</string>
+    <string name="plant_detail_title">Plant Detail</string>
+    <string name="back">Back</string>
+    <string name="add_new_plant_title">Add New Plant</string>
+    <string name="retake_photo">Retake photo</string>
+    <string name="take_photo">Take photo</string>
+    <string name="plant_name_hint">Plant name</string>
+    <string name="plant_notes_hint">Notes (Optional)</string>
+    <string name="save_plant">Save Plant</string>
+    <string name="camera_permission_required">Camera Permission Required</string>
+    <string name="camera_permission_settings_message">Camera permission is needed to take photos. Please grant the permission in app settings.</string>
+    <string name="open_settings">Open Settings</string>
+    <string name="cancel">Cancel</string>
+</resources>

@@ -1,0 +1,33 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <group
+        android:pivotX="54"
+        android:pivotY="54"
+        android:scaleX="0.5"
+        android:scaleY="0.5">
+
+        <!-- Main Leaf -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M54,38c0,0 -12,8 -12,20c0,12 12,12 12,12s12,0 12,-20C66,38 54,38 54,38z"/>
+
+        <!-- Left Leaf -->
+        <path
+            android:fillColor="#E8F5E9"
+            android:pathData="M54,42c0,0 -8,4 -8,16s8,8 8,8s8,0 8,-16S54,42 54,42z"/>
+
+        <!-- Pot -->
+        <path
+            android:fillColor="#3E2723"
+            android:pathData="M44,70l20,0l4,8l-28,0z"/>
+
+        <!-- Pot Top -->
+        <path
+            android:fillColor="#5D4037"
+            android:pathData="M40,78h28v4h-28z"/>
+    </group>
+</vector>

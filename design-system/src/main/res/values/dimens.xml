@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_padding">8dp</dimen>
+    <dimen name="dialog_max_width">440dp</dimen>
+    <dimen name="dialog_max_height">700dp</dimen>
+
+    <dimen name="default_padding_small">4dp</dimen>
+    <dimen name="default_padding_medium">12dp</dimen>
+    <dimen name="default_padding_large">16dp</dimen>
+    <dimen name="default_padding_xlarge">20dp</dimen>
+    <dimen name="default_padding_xxlarge">24dp</dimen>
+    <dimen name="content_padding">8dp</dimen>
+
+    <dimen name="rounded_card_corner_radius">4dp</dimen>
+    <dimen name="rounded_card_corner_radius_8">8dp</dimen>
+    <dimen name="elevation_8dp">8dp</dimen>
+
+    <!-- region SmartTaskCard -->
+    <dimen name="progress_padding_card">54dp</dimen>
+    <dimen name="progress_padding_dialog">140dp</dimen>
+    <dimen name="icon_size">24dp</dimen>
+    <dimen name="header_height_card">96dp</dimen>
+    <dimen name="header_background_box_height_card">64dp</dimen>
+    <dimen name="image_height_card">96dp</dimen>
+    <dimen name="header_height_dialog">184dp</dimen>
+    <dimen name="header_background_box_height_dialog">184dp</dimen>
+    <dimen name="image_height_dialog">128dp</dimen>
+    <dimen name="dismissable_area_height_dialog">172dp</dimen>
+    <dimen name="dismiss_area_width_card">35dp</dimen>
+    <dimen name="dismiss_area_width_dialog">47dp</dimen>
+    <dimen name="progress_indicator_size">48dp</dimen>
+    <dimen name="stroke_width">4dp</dimen>
+    <dimen name="full_screen_dialog_image_size">96dp</dimen>
+    <!-- endregion -->
+</resources>

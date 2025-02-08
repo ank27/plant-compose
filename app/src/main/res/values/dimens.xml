@@ -1,0 +1,14 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="alpha_0_1">0.1f</dimen>
+    <dimen name="alpha_0_2">0.2f</dimen>
+    <dimen name="alpha_0_3">0.3f</dimen>
+    <dimen name="alpha_0_4">0.4f</dimen>
+    <dimen name="alpha_0_5">0.5f</dimen>
+    <dimen name="alpha_0_6">0.6f</dimen>
+    <dimen name="alpha_0_7">0.7f</dimen>
+    <dimen name="alpha_0_8">0.8f</dimen>
+    <dimen name="alpha_0_9">0.9f</dimen>
+    <dimen name="size_260">260dp</dimen>
+    <dimen name="size_300">300dp</dimen>
+</resources>

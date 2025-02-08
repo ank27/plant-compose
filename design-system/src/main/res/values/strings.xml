@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="THEME_SCALE">1</string>
+    <string name="image_desc_null">""</string>
+    <string name="close" translatable="false" tools:ignore="ExtraTranslation">Close</string>
+</resources>
+

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="warning_color">#ffffac00</color>
+    <color name="alert_color">#ffbf0001</color>
+    <color name="info_color">#ff2693ff</color>
+    <color name="background_gray_10">#fff8f8f8</color>
+    <color name="gray_25">#FFF0F0F0</color>
+    <color name="gray_300">#ff8a8a8a</color>
+    <color name="gray_500">#ff212121</color>
+    <color name="black">#ff000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="background_warning_400">#ffffeecc</color>
+
+
+    <color name="surface_color">#faf5f5</color>
+    <color name="button_color">#003CFF</color>
+    <color name="core_customized">#003CFF</color>
+    <color name="core_customized_dark">#99B1FF</color>
+    <color name="illustration_customized">#668AFF</color>
+    <color name="illustration_customized_dark">#668AFF</color>
+    <color name="canvas_customized">#faf5f5</color>
+    <color name="canvas_customized_dark">#000000</color>
+    <color name="core_pressed_customized">#003CFF</color>
+    <color name="core_pressed_customized_dark">#99B1FF</color>
+</resources>
